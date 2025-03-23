@@ -1,0 +1,1332 @@
+[
+    {
+      "Crn": "13458",
+      "Subj": "ACCT",
+      "Crse": "2143",
+      "Title": "Financial Accounting",
+      "Days": "TR",
+      "Begin": "1100am",
+      "End": "1220pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10105",
+      "Subj": "ACCT",
+      "Crse": "2143",
+      "Title": "Financial Accounting",
+      "Days": "TR",
+      "Begin": "1230pm",
+      "End": "0150pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10119",
+      "Subj": "ACCT",
+      "Crse": "2243",
+      "Title": "Managerial Accounting",
+      "Days": "MWF",
+      "Begin": "1000am",
+      "End": "1050am",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10122",
+      "Subj": "ACCT",
+      "Crse": "2243",
+      "Title": "Managerial Accounting",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1050am",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10131",
+      "Subj": "ACCT",
+      "Crse": "3023",
+      "Title": "Accounting Info Systems",
+      "Days": "MW",
+      "Begin": "1100am",
+      "End": "1220pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10137",
+      "Subj": "ACCT",
+      "Crse": "3043",
+      "Title": "Intermediate Accounting II",
+      "Days": "MW",
+      "Begin": "1100am",
+      "End": "1220pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10140",
+      "Subj": "ACCT",
+      "Crse": "3073",
+      "Title": "Federal Income Tax I",
+      "Days": "MW",
+      "Begin": "0930am",
+      "End": "1050am",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10151",
+      "Subj": "ACCT",
+      "Crse": "4063",
+      "Title": "Auditing",
+      "Days": "TR",
+      "Begin": "0800am",
+      "End": "0920am",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10168",
+      "Subj": "ACCT",
+      "Crse": "5213",
+      "Title": "Cost Analysis & Control",
+      "Days": "W",
+      "Begin": "0700pm",
+      "End": "0950pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "13017",
+      "Subj": "ACCT",
+      "Crse": "5703",
+      "Title": "Federal Tax Research",
+      "Days": "T",
+      "Begin": "0530pm",
+      "End": "0820pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "14142",
+      "Subj": "AGBU",
+      "Crse": "3923",
+      "Title": "Applied Agricultural Marketing",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1050am",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "13125",
+      "Subj": "ART",
+      "Crse": "1413",
+      "Title": "Art Appreciation",
+      "Days": "MWF",
+      "Begin": "0800am",
+      "End": "0850am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "13304",
+      "Subj": "ART",
+      "Crse": "1413",
+      "Title": "Art Appreciation-WFISD",
+      "Days": "MWF",
+      "Begin": "0800am",
+      "End": "0850am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10813",
+      "Subj": "ART",
+      "Crse": "1113",
+      "Title": "2-D Design",
+      "Days": "MW",
+      "Begin": "0500pm",
+      "End": "0750pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "11818",
+      "Subj": "ART",
+      "Crse": "1123",
+      "Title": "3-D Design",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10825",
+      "Subj": "ART",
+      "Crse": "1313",
+      "Title": "Drawing I",
+      "Days": "MW",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+      {
+      "Crn": "10821",
+      "Subj": "ART",
+      "Crse": "1313",
+      "Title": "Drawing I",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10828",
+      "Subj": "ART",
+      "Crse": "1333",
+      "Title": "Computers for Artists",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "13131",
+      "Subj": "ART",
+      "Crse": "1613",
+      "Title": "Ceramics for Non-Majors",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10846",
+      "Subj": "ART",
+      "Crse": "2013",
+      "Title": "Photography I",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10854",
+      "Subj": "ART",
+      "Crse": "2153",
+      "Title": "Printmaking I",
+      "Days": "MW",
+      "Begin": "0900am",
+      "End": "1150am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10857",
+      "Subj": "ART",
+      "Crse": "2313",
+      "Title": "Painting I",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "13527",
+      "Subj": "ART",
+      "Crse": "2523",
+      "Title": "Sculpture I",
+      "Days": "MW",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10862",
+      "Subj": "ART",
+      "Crse": "2613",
+      "Title": "Ceramics I",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10872",
+      "Subj": "ART",
+      "Crse": "2713",
+      "Title": "Graphic Design I",
+      "Days": "MW",
+      "Begin": "0900am",
+      "End": "1150am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "14029",
+      "Subj": "ART",
+      "Crse": "2733",
+      "Title": "Animation for Non-Majors",
+      "Days": "MW",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10876",
+      "Subj": "ART",
+      "Crse": "2813",
+      "Title": "Metals I",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10879",
+      "Subj": "ART",
+      "Crse": "3013",
+      "Title": "Photography II",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10885",
+      "Subj": "ART",
+      "Crse": "3023",
+      "Title": "Photography III",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10889",
+      "Subj": "ART",
+      "Crse": "3143",
+      "Title": "Printmaking II",
+      "Days": "MW",
+      "Begin": "0900am",
+      "End": "1150am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10893",
+      "Subj": "ART",
+      "Crse": "3153",
+      "Title": "Printmaking III",
+      "Days": "MW",
+      "Begin": "0900am",
+      "End": "1150am",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10896",
+      "Subj": "ART",
+      "Crse": "3213",
+      "Title": "Drawing III",
+      "Days": "TR",
+      "Begin": "0500pm",
+      "End": "0750pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10900",
+      "Subj": "ART",
+      "Crse": "3303",
+      "Title": "Painting II",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10905",
+      "Subj": "ART",
+      "Crse": "3323",
+      "Title": "Painting III",
+      "Days": "TR",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10908",
+      "Subj": "ART",
+      "Crse": "3413",
+      "Title": "Hist of World Art: Survey I",
+      "Days": "TR",
+      "Begin": "1230pm",
+      "End": "0150pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "13528",
+      "Subj": "ART",
+      "Crse": "3523",
+      "Title": "Sculpture II",
+      "Days": "MW",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "13529",
+      "Subj": "ART",
+      "Crse": "3533",
+      "Title": "Sculpture III",
+      "Days": "MW",
+      "Begin": "0200pm",
+      "End": "0450pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10920",
+      "Subj": "ART",
+      "Crse": "3603",
+      "Title": "Ceramics II",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10922",
+      "Subj": "ART",
+      "Crse": "3613",
+      "Title": "Ceramics III",
+      "Days": "TR",
+      "Begin": "0930am",
+      "End": "1220pm",
+      "Bldg": "FA"
+    },
+    {
+      "Crn": "10925",
+      "Subj": "ART",
+      "Crse": "3703",
+      "Title": "Graphic Design II",
+      "Days": "MW",
+      "Begin": "0900am",
+      "End": "1150am",
+      "Bldg": "FA"
+    },
+    {
+        "Crn": "12339",
+        "Subj": "BIOL",
+        "Crse": "1114",
+        "Title": "Life I:Mol & Cell Concepts Lab",
+        "Days": "R",
+        "Begin": "0100pm",
+        "End": "0250pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "13583",
+        "Subj": "BIOL",
+        "Crse": "1114",
+        "Title": "Life I: Mol&CellConc-Honors",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "13584",
+        "Subj": "BIOL",
+        "Crse": "1114",
+        "Title": "Life I: Mol&Cell Conc-Honors",
+        "Days": "W",
+        "Begin": "0100pm",
+        "End": "0250pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12770",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "TR",
+        "Begin": "0800am",
+        "End": "0920am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12363",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "MWF",
+        "Begin": "1000am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12365",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "MWF",
+        "Begin": "1100am",
+        "End": "1150am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12772",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12774",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "TR",
+        "Begin": "1100am",
+        "End": "1220pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "13872",
+        "Subj": "BIOL",
+        "Crse": "1134",
+        "Title": "Anatomy & Physiology I",
+        "Days": "MWF",
+        "Begin": "0900am",
+        "End": "0950am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12368",
+        "Subj": "BIOL",
+        "Crse": "1234",
+        "Title": "Anatomy & Physiology II",
+        "Days": "TR",
+        "Begin": "0800am",
+        "End": "0920am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12776",
+        "Subj": "BIOL",
+        "Crse": "1234",
+        "Title": "Anatomy & Physiology II",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12778",
+        "Subj": "BIOL",
+        "Crse": "1234",
+        "Title": "Anatomy & Physiology II",
+        "Days": "MWF",
+        "Begin": "1000am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12371",
+        "Subj": "BIOL",
+        "Crse": "1234",
+        "Title": "Anatomy & Physiology II",
+        "Days": "MWF",
+        "Begin": "1100am",
+        "End": "1150am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "13873",
+        "Subj": "BIOL",
+        "Crse": "1234",
+        "Title": "Anatomy & Physiology II",
+        "Days": "MWF",
+        "Begin": "0900am",
+        "End": "0950am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12374",
+        "Subj": "BIOL",
+        "Crse": "2134",
+        "Title": "Microbiology",
+        "Days": "TR",
+        "Begin": "0800am",
+        "End": "0920am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12376",
+        "Subj": "BIOL",
+        "Crse": "2134",
+        "Title": "Microbiology",
+        "Days": "MWF",
+        "Begin": "0900am",
+        "End": "0950am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12378",
+        "Subj": "BIOL",
+        "Crse": "2134",
+        "Title": "Microbiology",
+        "Days": "MWF",
+        "Begin": "1000am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "13874",
+        "Subj": "BIOL",
+        "Crse": "2134",
+        "Title": "Microbiology",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12381",
+        "Subj": "BIOL",
+        "Crse": "2224",
+        "Title": "General Botany",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "12384",
+        "Subj": "BIOL",
+        "Crse": "3334",
+        "Title": "Genetics",
+        "Days": "MWF",
+        "Begin": "0900am",
+        "End": "0950am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "10972",
+        "Subj": "BIOL",
+        "Crse": "3334",
+        "Title": "Genetics Lab",
+        "Days": "T",
+        "Begin": "0200pm",
+        "End": "0450pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "14217",
+        "Subj": "BIOL",
+        "Crse": "3434",
+        "Title": "Entomology",
+        "Days": "TR",
+        "Begin": "0930am",
+        "End": "1050am",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "14218",
+        "Subj": "BIOL",
+        "Crse": "3434",
+        "Title": "Entomology-Lab",
+        "Days": "W",
+        "Begin": "0100pm",
+        "End": "0450pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "14220",
+        "Subj": "BIOL",
+        "Crse": "4021",
+        "Title": "Immunology Lab",
+        "Days": "W",
+        "Begin": "0200pm",
+        "End": "0450pm",
+        "Bldg": "BO"
+    },
+    {
+        "Crn": "14219",
+        "Subj": "BIOL",
+        "Crse": "4023",
+        "Title": "Immunology",
+        "Days": "MWF",
+        "Begin": "1100am",
+        "End": "1150am",
+        "Bldg": "BO"
+    },
+    {
+      "Crn": "14024",
+      "Subj": "BUAD",
+      "Crse": "3033",
+      "Title": "Business and Economic Stats",
+      "Days": "TR",
+      "Begin": "1230pm",
+      "End": "0150pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "13012",
+      "Subj": "BUAD",
+      "Crse": "3323",
+      "Title": "Business Ethics",
+      "Days": "R",
+      "Begin": "0530pm",
+      "End": "0820pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "13692",
+      "Subj": "BUAD",
+      "Crse": "3603",
+      "Title": "Business Practices Nonprofits",
+      "Days": "TR",
+      "Begin": "1230pm",
+      "End": "0150pm",
+      "Bldg": "DB"
+    },
+      {
+      "Crn": "13466",
+      "Subj": "FINC",
+      "Crse": "5713",
+      "Title": "Financial Administration",
+      "Days": "W",
+      "Begin": "0530pm",
+      "End": "0650pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10265",
+      "Subj": "FINC",
+      "Crse": "5933",
+      "Title": "Student Managed Invest Fund I",
+      "Days": "TR",
+      "Begin": "1100am",
+      "End": "1220pm",
+      "Bldg": "DB"
+    },
+    {
+      "Crn": "10268",
+      "Subj": "FINC",
+      "Crse": "5943",
+      "Title": "Student Managed Invest Fund II",
+      "Days": "TR",
+      "Begin": "1100am",
+      "End": "1220pm",
+      "Bldg": "DB"
+    },
+    {
+          "Crn": "10381",
+          "Subj": "FREN",
+          "Crse": "1113",
+          "Title": "Beginning French I",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10382",
+          "Subj": "FREN",
+          "Crse": "1113",
+          "Title": "Beginning French I",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10383",
+          "Subj": "FREN",
+          "Crse": "1113",
+          "Title": "Beginning French I",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10384",
+          "Subj": "FREN",
+          "Crse": "1113",
+          "Title": "Beginning French I",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10386",
+          "Subj": "FREN",
+          "Crse": "1213",
+          "Title": "Beginning French II",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10387",
+          "Subj": "FREN",
+          "Crse": "1213",
+          "Title": "Beginning French II",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10388",
+          "Subj": "FREN",
+          "Crse": "1213",
+          "Title": "Beginning French II",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10389",
+          "Subj": "FREN",
+          "Crse": "1213",
+          "Title": "Beginning French II",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10391",
+          "Subj": "FREN",
+          "Crse": "2113",
+          "Title": "Intermediate French I",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10392",
+          "Subj": "FREN",
+          "Crse": "2113",
+          "Title": "Intermediate French I",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10394",
+          "Subj": "FREN",
+          "Crse": "2123",
+          "Title": "Intermediate French II",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10395",
+          "Subj": "FREN",
+          "Crse": "2123",
+          "Title": "Intermediate French II",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10397",
+          "Subj": "FREN",
+          "Crse": "3113",
+          "Title": "French Conversation",
+          "Days": "TR",
+          "Begin": "0200pm",
+          "End": "0320pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10399",
+          "Subj": "FREN",
+          "Crse": "3123",
+          "Title": "French Phonetics",
+          "Days": "TR",
+          "Begin": "0330pm",
+          "End": "0450pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "10401",
+          "Subj": "FREN",
+          "Crse": "3143",
+          "Title": "Advanced Grammar",
+          "Days": "MWF",
+          "Begin": "1100am",
+          "End": "1150am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13359",
+          "Subj": "HSHS",
+          "Crse": "1013",
+          "Title": "Global Health and Wellness",
+          "Days": "TR",
+          "Begin": "0200pm",
+          "End": "0320pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12411",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12412",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12413",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "MWF",
+          "Begin": "1100am",
+          "End": "1150am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12414",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "TR",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12415",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12416",
+          "Subj": "MATH",
+          "Crse": "1314",
+          "Title": "College Algebra",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+       {
+          "Crn": "12418",
+          "Subj": "MATH",
+          "Crse": "1513",
+          "Title": "Plane Trigonometry",
+          "Days": "MWF",
+          "Begin": "0800am",
+          "End": "0850am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12419",
+          "Subj": "MATH",
+          "Crse": "1513",
+          "Title": "Plane Trigonometry",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12420",
+          "Subj": "MATH",
+          "Crse": "1513",
+          "Title": "Plane Trigonometry",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12421",
+          "Subj": "MATH",
+          "Crse": "1513",
+          "Title": "Plane Trigonometry",
+          "Days": "TR",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12422",
+          "Subj": "MATH",
+          "Crse": "1513",
+          "Title": "Plane Trigonometry",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12424",
+          "Subj": "MATH",
+          "Crse": "2233",
+          "Title": "Applied Calculus I",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12425",
+          "Subj": "MATH",
+          "Crse": "2233",
+          "Title": "Applied Calculus I",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12426",
+          "Subj": "MATH",
+          "Crse": "2233",
+          "Title": "Applied Calculus I",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12427",
+          "Subj": "MATH",
+          "Crse": "2233",
+          "Title": "Applied Calculus I",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12428",
+          "Subj": "MATH",
+          "Crse": "2333",
+          "Title": "Applied Calculus II",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12429",
+          "Subj": "MATH",
+          "Crse": "2333",
+          "Title": "Applied Calculus II",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12430",
+          "Subj": "MATH",
+          "Crse": "2333",
+          "Title": "Applied Calculus II",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "12431",
+          "Subj": "MATH",
+          "Crse": "2333",
+          "Title": "Applied Calculus II",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13938",
+          "Subj": "EENG",
+          "Crse": "1101",
+          "Title": "Introduction to Engineering",
+          "Days": "M",
+          "Begin": "0100pm",
+          "End": "0150pm",
+          "Bldg": "MY"
+      },
+      {
+          "Crn": "13939",
+          "Subj": "EENG",
+          "Crse": "1101",
+          "Title": "Introduction to Engineering",
+          "Days": "F",
+          "Begin": "0100pm",
+          "End": "0150pm",
+          "Bldg": "MY"
+      },
+      {
+          "Crn": "13940",
+          "Subj": "EENG",
+          "Crse": "1101",
+          "Title": "Introduction to Engineering",
+          "Days": "W",
+          "Begin": "0300pm",
+          "End": "0350pm",
+          "Bldg": "MY"
+      },
+      {
+          "Crn": "13945",
+          "Subj": "EENG",
+          "Crse": "1123",
+          "Title": "Engineering Economics",
+          "Days": "TR",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "MY"
+      },
+      {
+          "Crn": "13261",
+          "Subj": "ENGL",
+          "Crse": "0073",
+          "Title": "Developmental Writing",
+          "Days": "MW",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13262",
+          "Subj": "ENGL",
+          "Crse": "0073",
+          "Title": "Developmental Writing",
+          "Days": "MW",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13263",
+          "Subj": "ENGL",
+          "Crse": "0073",
+          "Title": "Developmental Writing",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13265",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "MWF",
+          "Begin": "0800am",
+          "End": "0850am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13266",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13267",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13268",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "MWF",
+          "Begin": "1100am",
+          "End": "1150am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13269",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "TR",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13270",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13271",
+          "Subj": "ENGL",
+          "Crse": "1113",
+          "Title": "English Composition I",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13272",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "MWF",
+          "Begin": "0800am",
+          "End": "0850am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13273",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "MWF",
+          "Begin": "0900am",
+          "End": "0950am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13274",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "MWF",
+          "Begin": "1000am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13275",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "MWF",
+          "Begin": "1100am",
+          "End": "1150am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13276",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "TR",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13277",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "MH"
+      },
+      {
+          "Crn": "13278",
+          "Subj": "ENGL",
+          "Crse": "1213",
+          "Title": "English Composition II",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "MH"
+      },
+       {
+          "Crn": "10403",
+          "Subj": "ETEC",
+          "Crse": "4003",
+          "Title": "Adv Technology Integration",
+          "Days": "W",
+          "Begin": "0530pm",
+          "End": "0820pm",
+          "Bldg": "BH"
+      },
+      {
+          "Crn": "10271",
+          "Subj": "LSBA",
+          "Crse": "3233",
+          "Title": "Legal & Ethical Envirn of Busn",
+          "Days": "TR",
+          "Begin": "0930am",
+          "End": "1050am",
+          "Bldg": "BA"
+      },
+      {
+          "Crn": "10272",
+          "Subj": "LSBA",
+          "Crse": "3243",
+          "Title": "Commercial Law",
+          "Days": "MW",
+          "Begin": "0800am",
+          "End": "0920am",
+          "Bldg": "DB"
+      },
+      {
+          "Crn": "14329",
+          "Subj": "THEA",
+          "Crse": "2433",
+          "Title": "Theatre History I",
+          "Days": "TR",
+          "Begin": "1100am",
+          "End": "1220pm",
+          "Bldg": "FA"
+      },
+      {
+          "Crn": "13564",
+          "Subj": "THEA",
+          "Crse": "3011",
+          "Title": "Singing for the Actor",
+          "Days": "MWF",
+          "Begin": "0100pm",
+          "End": "0150pm",
+          "Bldg": "FA"
+      },
+      {
+          "Crn": "14319",
+          "Subj": "THEA",
+          "Crse": "3013",
+          "Title": "Costume Construction",
+          "Days": "MWF",
+          "Begin": "1100am",
+          "End": "1150am",
+          "Bldg": "FA"
+      }
+  ]
