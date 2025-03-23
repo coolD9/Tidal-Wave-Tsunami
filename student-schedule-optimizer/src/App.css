@@ -1,38 +1,59 @@
-.App {
-  text-align: center;
+.bar {
+  display: flex;              /* Enable flexbox */
+  justify-content: left;      /* Distribute items evenly across the navbar */
+  align-items: center;        /* Vertically center the items */
+  width: 100%;                /* Stretch the navbar across the entire width */
+  height: 7vh;                /* Set the height of the navbar */
+  background-color: #333;   /* Set the background color of the navbar */
+  padding: 0.15% 0;           /* Add some padding to the navbar */
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bar-title {
+  color: white;       /*Set the text color to white */
+  font-size: 24px;      /* Set the font size */
+  margin-left: 1%;      /* Add some left margin */
+  margin-right: auto;   /* Push the title to the left */
+  margin-top: 1%;       /* Add some top margin */
+  margin-bottom: 1%     /* Add some bottom margin */
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.team-title {
+  color: white;       /* Set the text color to white */
+  font-size: 24px;      /* Set the font size */
+  margin-left: auto;    /* Push the title to the right */
+  margin-right: 1%;     /* Add some right margin */
+  margin-top: 1%;       /* Add some top margin */
+  margin-bottom: 1%     /* Add some bottom margin */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Main-container {
+  display: flex;             /* Enable flexbox for the main container */
+  flex-direction: row;       /* Arrange children in a row */
+  align-items: center;       /* Vertically center the items */
+  justify-content: center;   /* Horizontally center the items */
+  height: 90vh;              /* Set the height of the main container */
+  width: 100%;               /* Set the width of the main container */
 }
 
-.App-link {
-  color: #61dafb;
+.Left-container, .Right-container {
+  display: flex;            /* Enable flexbox for the left and right containers */
+  flex-direction: column;   /* Arrange children in a column */
+  align-self: center;       /* Center the containers vertically */
+  align-items: center;      /* Center the items horizontally */
+  height: 90vh;             /* Set the height of the containers */      
+  width: 50%;               /* Set the width of the containers */ 
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Left-container{
+  background: linear-gradient(rgba(47, 92, 255, 0.758), rgba(255, 255, 255, 0.747));
+  margin-top: auto;     /* Align the top of the container to the top of the main container */
+  margin-left: auto;    /* Align the top of the container to the top of the main container */
+  margin-right: auto;   /* Align the top of the container to the top of the main container */
+}
+
+.Right-container{
+  background: linear-gradient(rgb(128, 86, 234), rgba(255, 255, 255, 0.724));
+  margin-top: auto;     /* Align the top of the container to the top of the main container */
+  margin-left: auto;    /* Align the top of the container to the top of the main container */
+  margin-right: auto;   /* Align the top of the container to the top of the main container */
 }
