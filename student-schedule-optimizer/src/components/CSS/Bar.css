@@ -1,0 +1,27 @@
+.bar {
+    display: flex;              /* Enable flexbox */
+    justify-content: left;      /* Distribute items evenly across the navbar */
+    align-items: center;        /* Vertically center the items */
+    width: 100%;                /* Stretch the navbar across the entire width */
+    height: 7vh;                /* Set the height of the navbar */
+    background-color: #333;   /* Set the background color of the navbar */
+    padding: 0.15% 0;           /* Add some padding to the navbar */
+  }
+  
+  .bar-title {
+    color: white;       /*Set the text color to white */
+    font-size: 24px;      /* Set the font size */
+    margin-left: 1%;      /* Add some left margin */
+    margin-right: auto;   /* Push the title to the left */
+    margin-top: 1%;       /* Add some top margin */
+    margin-bottom: 1%     /* Add some bottom margin */
+  }
+  
+  .team-title {
+    color: white;       /* Set the text color to white */
+    font-size: 24px;      /* Set the font size */
+    margin-left: auto;    /* Push the title to the right */
+    margin-right: 1%;     /* Add some right margin */
+    margin-top: 1%;       /* Add some top margin */
+    margin-bottom: 1%     /* Add some bottom margin */
+  }
